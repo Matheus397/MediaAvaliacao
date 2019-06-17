@@ -1,0 +1,11 @@
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\bin\Debug\netcoreapp2.2\MediaAvaliacao.deps.json
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\bin\Debug\netcoreapp2.2\MediaAvaliacao.runtimeconfig.json
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\bin\Debug\netcoreapp2.2\MediaAvaliacao.runtimeconfig.dev.json
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\bin\Debug\netcoreapp2.2\MediaAvaliacao.dll
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\bin\Debug\netcoreapp2.2\MediaAvaliacao.pdb
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\obj\Debug\netcoreapp2.2\MediaAvaliacao.csprojAssemblyReference.cache
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\obj\Debug\netcoreapp2.2\MediaAvaliacao.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\obj\Debug\netcoreapp2.2\MediaAvaliacao.AssemblyInfoInputs.cache
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\obj\Debug\netcoreapp2.2\MediaAvaliacao.AssemblyInfo.cs
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\obj\Debug\netcoreapp2.2\MediaAvaliacao.dll
+C:\Users\Treinamento 6\Documents\MediaAvaliacao\MediaAvaliacao\obj\Debug\netcoreapp2.2\MediaAvaliacao.pdb
